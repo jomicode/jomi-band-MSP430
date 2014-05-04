@@ -6,4 +6,4 @@ connection settings will either modify an existing or generate a new target-conf
 if you manually edit these auto-generated files, you may need to re-apply your changes. Alternatively,
 you may create your own target-configuration file for this project and manage it manually. You can
 always switch back to automatic target-configuration management by checking the "Manage the project's
-target-configuration automatically" checkbox on the project's Prpoperties > General page.
+target-configuration automatically" checkbox on the project's Properties > General page.
